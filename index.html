@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL 94</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #0056b3;
+        }
+        #output {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 style="text-align: center;">NHL 94</h1>
+    <div id="output">Loading metadata...</div>
+
+    <script>
+        // Load and parse the XML file
+        async function loadMetadata() {
+            try {
+                // Fetch the XML file
+                const response = await fetch('NHL_94_files.xml');
+                
+                if (!response.ok) {
+                    throw new Error('Could not find or load ');
+                }
+
+                const xmlText = await response.text();
+                
+                // Parse the XML text into a DOM object
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+
+                // Check for XML parsing errors
+                if (xmlDoc.querySelector("parsererror")) {
+                    throw new Error('Error parsing XML file NHL_94_files.xml');
+                }
+
+                // ----------------------------------------------------
+                // DISPLAY LOGIC: Adjust the tags below to match your XML
+                // ----------------------------------------------------
+                
+                let htmlOutput = "<h3>File Details:</h3><ul>";
+                
+                // Example: If you have <metadata> as a parent tag and <title>, <year>, <version> children
+                const titles = xmlDoc.getElementsByTagName("title");
+                const years = xmlDoc.getElementsByTagName("year");
+                const versions = xmlDoc.getElementsByTagName("version");
+
+                if (titles.length > 0) {
+                    htmlOutput += `<li><strong>Game:</strong> ${titles[0].textContent}</li>`;
+                }
+                if (years.length > 0) {
+                    htmlOutput += `<li><strong>Release Year:</strong> ${years[0].textContent}</li>`;
+                }
+                if (versions.length > 0) {
+                    htmlOutput += `<li><strong>Version:</strong> ${versions[0].textContent}</li>`;
+                }
+                
+                htmlOutput += "</ul>";
+
+                // Fallback if no specific tags were mapped
+                if (titles.length === 0) {
+                    htmlOutput = "<p>XML loaded successfully! Edit the script in index.html to extract specific tags.</p>";
+                    htmlOutput += `<pre>${xmlText.replace(/</g, "&lt;")}</pre>`;
+                }
+
+                document.getElementById('output').innerHTML = htmlOutput;
+
+            } catch (error) {
+                document.getElementById('output').innerHTML = `<p style="color: red;">${error.message}</p>`;
+                console.error('Error:', error);
+            }
+        }
+
+        // Run the function on load
+        loadMetadata();
+    </script>
+</body>
+</html>
