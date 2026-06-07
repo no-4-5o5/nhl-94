@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="00_coverscreenshot.png" source="original">
+    <mtime>1667287116</mtime>
+    <size>31150</size>
+    <md5>039623c2034341e8a9eb851b0917c4c7</md5>
+    <crc32>26e63e8c</crc32>
+    <sha1>eb1297189fdaef6c50a4f487339489e14bd3a108</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="00_coverscreenshot_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>00_coverscreenshot.png</original>
+    <mtime>1667290268</mtime>
+    <size>11057</size>
+    <md5>c78e28046b567ca1a6c3da72e4fd7841</md5>
+    <crc32>13eedc92</crc32>
+    <sha1>a78e6bdacab297b0d3b2ced7101c3cc676c078f0</sha1>
+  </file>
+  <file name="NHL_94.bin" source="original">
+    <mtime>1667143509</mtime>
+    <size>1048576</size>
+    <md5>7a420c2fb35a1ee286cb260d8f698fc0</md5>
+    <crc32>4c886942</crc32>
+    <sha1>267061e656b0629eeed78453b9010b6d7a4f20a9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="NHL_94_archive.torrent" source="metadata">
+    <btih>76909a344363cec093bfc47e85a615ba160239af</btih>
+    <mtime>1674388834</mtime>
+    <size>10749</size>
+    <md5>c16c3edae9281b85feae2b7ec4ba41f7</md5>
+    <crc32>5c60e59e</crc32>
+    <sha1>1974f1a192ccff93f45a4dccd23277dd6bc82228</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="NHL_94_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5b8f159215fd456037144c89d41188e4</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="NHL_94_meta.sqlite" source="original">
+    <mtime>1667287168</mtime>
+    <size>45056</size>
+    <md5>0ae0d914413b26558b3a2c550afbbfaa</md5>
+    <crc32>19dee86d</crc32>
+    <sha1>fc0bd90542b60b80c57bba679f4df0a6ce0b4658</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="NHL_94_meta.xml" source="original">
+    <mtime>1674388833</mtime>
+    <size>990</size>
+    <md5>3496362191ab18526f6e5ad0c9e80c75</md5>
+    <crc32>c251bc76</crc32>
+    <sha1>672a5aba4b25599591441b0c9b9fe7af4ec0e7a9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="NHL_94_screenshot.gif" source="original">
+    <mtime>1667287165</mtime>
+    <size>1605086</size>
+    <md5>15ca6d9471479ca311ed591c959d6dcb</md5>
+    <crc32>fd64aa12</crc32>
+    <sha1>c86a274ec311b456f5183d6ff35034ab22314a9b</sha1>
+    <format>Emulator Screenshot</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1667287204</mtime>
+    <size>19225</size>
+    <md5>9ff6ec777b7f07f9ca0fef1ba5618343</md5>
+    <crc32>397a6dc0</crc32>
+    <sha1>e10444393b534779543168841a9636b5868c0ea7</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="screenshot_00.png" source="original">
+    <mtime>1667287118</mtime>
+    <size>9020</size>
+    <md5>82ace318a346f2b375386356614b154f</md5>
+    <crc32>659a8b15</crc32>
+    <sha1>ba0a15e99620016d9b1f488f966329bc171bb57c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_00_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_00.png</original>
+    <mtime>1667290270</mtime>
+    <size>5258</size>
+    <md5>c27cc301d3c72546b67cf79c2839e8e7</md5>
+    <crc32>8f29c99b</crc32>
+    <sha1>96dec47134c79d4b081d7050068dfaebe678c89d</sha1>
+  </file>
+  <file name="screenshot_01.png" source="original">
+    <mtime>1667287120</mtime>
+    <size>29115</size>
+    <md5>e5f0caf0dfbd185c16a7b009b8321d68</md5>
+    <crc32>a40e774e</crc32>
+    <sha1>40055f4816619ed0304189341f3d96f0925cae01</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_01_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_01.png</original>
+    <mtime>1667290273</mtime>
+    <size>9350</size>
+    <md5>1e6e35a2276c7fe421f09c0d4c49c246</md5>
+    <crc32>0449f9b7</crc32>
+    <sha1>f818bcf9c76cd1252a2047a13bffdf9f8eb48663</sha1>
+  </file>
+  <file name="screenshot_02.png" source="original">
+    <mtime>1667287121</mtime>
+    <size>30978</size>
+    <md5>b7a3ec8d740aa8670c622011f7e03dd3</md5>
+    <crc32>55f5b85d</crc32>
+    <sha1>e2bd8b964e16ef03b54b63fba6284bb5a7157ea8</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_02_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_02.png</original>
+    <mtime>1667290275</mtime>
+    <size>10971</size>
+    <md5>cf4fc11c5b8a89f35031e8fa9a2eaa3c</md5>
+    <crc32>2e332491</crc32>
+    <sha1>c210671a900b6b52ce8748a0468f5e092d6fb486</sha1>
+  </file>
+  <file name="screenshot_03.png" source="original">
+    <mtime>1667287123</mtime>
+    <size>31150</size>
+    <md5>039623c2034341e8a9eb851b0917c4c7</md5>
+    <crc32>26e63e8c</crc32>
+    <sha1>eb1297189fdaef6c50a4f487339489e14bd3a108</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_03_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_03.png</original>
+    <mtime>1667290278</mtime>
+    <size>11057</size>
+    <md5>c78e28046b567ca1a6c3da72e4fd7841</md5>
+    <crc32>13eedc92</crc32>
+    <sha1>a78e6bdacab297b0d3b2ced7101c3cc676c078f0</sha1>
+  </file>
+  <file name="screenshot_04.png" source="original">
+    <mtime>1667287125</mtime>
+    <size>30431</size>
+    <md5>4e54842f9dc223e418dda7cfeb8a729e</md5>
+    <crc32>38ee6331</crc32>
+    <sha1>a13305217c14c877f3130d8e3e4c63039de50318</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_04_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_04.png</original>
+    <mtime>1667290280</mtime>
+    <size>10441</size>
+    <md5>79fa6fc95d1d4c047ac455a62d3b4552</md5>
+    <crc32>2ca323f4</crc32>
+    <sha1>f827f79db816e09b33e6c3bf586b0e6f1df398ca</sha1>
+  </file>
+  <file name="screenshot_05.png" source="original">
+    <mtime>1667287127</mtime>
+    <size>30496</size>
+    <md5>cacf7500d60473714d17fa9ef533b56e</md5>
+    <crc32>0f0ba1f4</crc32>
+    <sha1>8dd06296c63ff00228ef572b4335288eb34665e7</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_05_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_05.png</original>
+    <mtime>1667290283</mtime>
+    <size>10609</size>
+    <md5>174a4a1f0b82d9e68ccd69361a7c2e7e</md5>
+    <crc32>4b8a10b6</crc32>
+    <sha1>0df4b4fc1d79035f582a7935dbcbabdfd7d2cfec</sha1>
+  </file>
+  <file name="screenshot_06.png" source="original">
+    <mtime>1667287128</mtime>
+    <size>30381</size>
+    <md5>93bffe4067607acf2ca659bd08a08c35</md5>
+    <crc32>cc38825e</crc32>
+    <sha1>ce0d9c2ebb9b3eac50b549218ef0210baddd105a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_06_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_06.png</original>
+    <mtime>1667290285</mtime>
+    <size>10341</size>
+    <md5>d1e524f13e81d910a63512bd398b1f95</md5>
+    <crc32>5b8c8be8</crc32>
+    <sha1>663018eb3b38a807064b3054fba7e23c3b199348</sha1>
+  </file>
+  <file name="screenshot_07.png" source="original">
+    <mtime>1667287130</mtime>
+    <size>30328</size>
+    <md5>a2683c5daa9fddcb81986af991bc874a</md5>
+    <crc32>69a11da2</crc32>
+    <sha1>f5816ff6160475ed772ddf89bfe391e9d7b0535c</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_07_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_07.png</original>
+    <mtime>1667290288</mtime>
+    <size>10351</size>
+    <md5>20c9d1515c476fae14fb80c0f71b8f7c</md5>
+    <crc32>609c1691</crc32>
+    <sha1>cf8af5c2d9bc9f51bff698f4028dbbe859beb943</sha1>
+  </file>
+  <file name="screenshot_08.png" source="original">
+    <mtime>1667287132</mtime>
+    <size>30315</size>
+    <md5>c3701300a70a0ef0944281900c58d733</md5>
+    <crc32>afe0a634</crc32>
+    <sha1>5bd31df6c60a7793860cad87561a128f176c4f49</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_08_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_08.png</original>
+    <mtime>1667290290</mtime>
+    <size>10307</size>
+    <md5>230975a00e45efff6a3c0809a9756473</md5>
+    <crc32>b44bbdda</crc32>
+    <sha1>8d553b366996c2f3129e051116cdad82db3862d2</sha1>
+  </file>
+  <file name="screenshot_09.png" source="original">
+    <mtime>1667287133</mtime>
+    <size>30494</size>
+    <md5>9d0ab15c27b4f078e34b5575f50b5f11</md5>
+    <crc32>33b7cbd7</crc32>
+    <sha1>f5d2b11959e1c43fd5b9913058c150f536458168</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_09_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_09.png</original>
+    <mtime>1667290292</mtime>
+    <size>10659</size>
+    <md5>1674c216ce9f4d5c54c6d2fe3aa357b1</md5>
+    <crc32>c1e8f1c3</crc32>
+    <sha1>cfbb811c3c854fe90763c88bd7317c48a4bb5acb</sha1>
+  </file>
+  <file name="screenshot_10.png" source="original">
+    <mtime>1667287135</mtime>
+    <size>30481</size>
+    <md5>be298332b045c88fa2368d95c1b41a02</md5>
+    <crc32>9e35d5ff</crc32>
+    <sha1>f9879707d676abcdb8da1b9e6e5a08e6abd3bd3d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_10_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_10.png</original>
+    <mtime>1667290295</mtime>
+    <size>10509</size>
+    <md5>d78ec08869e75eb1bec8dead6805525e</md5>
+    <crc32>3761da8a</crc32>
+    <sha1>76252522222ed5b8284af5055d3027d7e6a88428</sha1>
+  </file>
+  <file name="screenshot_11.png" source="original">
+    <mtime>1667287137</mtime>
+    <size>30394</size>
+    <md5>508fbe1f55de3531cb42cb58a646397a</md5>
+    <crc32>99938290</crc32>
+    <sha1>b93d81124309a150f11f3a0def98a27291e08268</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_11_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_11.png</original>
+    <mtime>1667290297</mtime>
+    <size>10644</size>
+    <md5>e74fa8b2e6eec4cd2677583648647cb4</md5>
+    <crc32>95de4667</crc32>
+    <sha1>ea1bd9037c3d35b5dabc3e6e908df89b582d084b</sha1>
+  </file>
+  <file name="screenshot_12.png" source="original">
+    <mtime>1667287138</mtime>
+    <size>30376</size>
+    <md5>ab45e39d62504c411e2d4d53bbe1bbe4</md5>
+    <crc32>20e8a91c</crc32>
+    <sha1>5ec94c9953d5af3f0191415060f383410178e709</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_12_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_12.png</original>
+    <mtime>1667290300</mtime>
+    <size>10472</size>
+    <md5>584c91d2e2084ffabc5dbc6a23fa3329</md5>
+    <crc32>3eca20de</crc32>
+    <sha1>cf8adc1e4d2efc0d209b9668dd027abd63abf770</sha1>
+  </file>
+  <file name="screenshot_13.png" source="original">
+    <mtime>1667287140</mtime>
+    <size>30407</size>
+    <md5>e4c8430f0396194a86268ff2f93d24e6</md5>
+    <crc32>d9a929bb</crc32>
+    <sha1>7a35af5c18fd073c0dd42f0b75ebf8d8610e9d84</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_13_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_13.png</original>
+    <mtime>1667290302</mtime>
+    <size>10628</size>
+    <md5>7078e3f52d3e346c312978a0272e07f4</md5>
+    <crc32>25df9c45</crc32>
+    <sha1>2cb86d3b9c673a0eed3fd83a1fc9b4ee06aec5c7</sha1>
+  </file>
+  <file name="screenshot_14.png" source="original">
+    <mtime>1667287142</mtime>
+    <size>30390</size>
+    <md5>39a63577956c3629b29d45fc2e870a7c</md5>
+    <crc32>491323ef</crc32>
+    <sha1>17e190380d412ef7978840b4b8f250358d43697d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_14_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_14.png</original>
+    <mtime>1667290304</mtime>
+    <size>10374</size>
+    <md5>509ea64ea6f11e190a51f620116b9ccb</md5>
+    <crc32>5e24a03f</crc32>
+    <sha1>f5a2efe1f68ff00180bf399fff178606228804dc</sha1>
+  </file>
+  <file name="screenshot_15.png" source="original">
+    <mtime>1667287143</mtime>
+    <size>30349</size>
+    <md5>f894ba88ea38c1149d8fcbaa61bce9c4</md5>
+    <crc32>8d8914f1</crc32>
+    <sha1>42c217a975f4473f04f575f72376a036ae9f44e6</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_15_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_15.png</original>
+    <mtime>1667290307</mtime>
+    <size>10499</size>
+    <md5>56dc994ff93ed0d27b24202a8497c2f3</md5>
+    <crc32>9efd41ef</crc32>
+    <sha1>f3028bfb2557c7568ef8380dc743e1dbd8e624a0</sha1>
+  </file>
+  <file name="screenshot_16.png" source="original">
+    <mtime>1667287145</mtime>
+    <size>30327</size>
+    <md5>4f0e2d79906f8429bc8c4a5c73737b2c</md5>
+    <crc32>adb27a9b</crc32>
+    <sha1>945ab55dd096b41fb44e982513fdf3d8f4922443</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_16_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_16.png</original>
+    <mtime>1667290309</mtime>
+    <size>10427</size>
+    <md5>2291b324044c981ff9d1ebeab75ae3e5</md5>
+    <crc32>ab460a19</crc32>
+    <sha1>aea6c8bb9916ec7d036f9effd588f97b34603e11</sha1>
+  </file>
+  <file name="screenshot_17.png" source="original">
+    <mtime>1667287146</mtime>
+    <size>30346</size>
+    <md5>5fa16cc8b1240777e4c20e8f87b2c40e</md5>
+    <crc32>39c5ba2d</crc32>
+    <sha1>12b31a8ee387b3d4c92f6e7fe95f695ddc7ad938</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_17_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_17.png</original>
+    <mtime>1667290311</mtime>
+    <size>10487</size>
+    <md5>0f03b6cf4f34a32cc2a5e81b214dba93</md5>
+    <crc32>aa09372c</crc32>
+    <sha1>9af8265e1d68a50171dff0921f6a60aba2382342</sha1>
+  </file>
+  <file name="screenshot_18.png" source="original">
+    <mtime>1667287148</mtime>
+    <size>30372</size>
+    <md5>fc026c09e116e9e8db417d62b2e96654</md5>
+    <crc32>658fe04d</crc32>
+    <sha1>f35f5fc21ee02aa37a9e36eda30b870d713b4c2a</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_18_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_18.png</original>
+    <mtime>1667290314</mtime>
+    <size>10369</size>
+    <md5>921834c1323d8547a15bc11a68c9697a</md5>
+    <crc32>8b3eb4e9</crc32>
+    <sha1>68aef4e758b5a9b36d8e5c2742906938605959ff</sha1>
+  </file>
+  <file name="screenshot_19.png" source="original">
+    <mtime>1667287150</mtime>
+    <size>30454</size>
+    <md5>bb9947d235ad55282d72c0a250060b2c</md5>
+    <crc32>6618d204</crc32>
+    <sha1>4073d561cceab78d080bf1bbd7209152e6cd478f</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_19_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_19.png</original>
+    <mtime>1667290316</mtime>
+    <size>10624</size>
+    <md5>a45379ff6ae62618d1fc7a58baecfb4a</md5>
+    <crc32>63f9c840</crc32>
+    <sha1>c0dad94fa2379e015c11529652998907a24256f8</sha1>
+  </file>
+  <file name="screenshot_20.png" source="original">
+    <mtime>1667287151</mtime>
+    <size>30431</size>
+    <md5>89c06ceed6b7c61a042bf707bc1b6d64</md5>
+    <crc32>94b75b3c</crc32>
+    <sha1>f3bab98c28e7110e142ad1052c8c903988d5e9fb</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_20_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_20.png</original>
+    <mtime>1667290318</mtime>
+    <size>10447</size>
+    <md5>ed748572a4c6c22e0cd22198e68c6a30</md5>
+    <crc32>d1ddf478</crc32>
+    <sha1>0043f3172bafe8a6d8f580dfeaa37298a7d07249</sha1>
+  </file>
+  <file name="screenshot_21.png" source="original">
+    <mtime>1667287153</mtime>
+    <size>30678</size>
+    <md5>734b04dc1802ac247a185c0061bf3b08</md5>
+    <crc32>6b142393</crc32>
+    <sha1>b3c9ff91a65d4bbbcc03415bccd46682ee4c38e2</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_21_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_21.png</original>
+    <mtime>1667290321</mtime>
+    <size>10781</size>
+    <md5>069fa662ec445aa0cd12d1a8b222a613</md5>
+    <crc32>991e5a36</crc32>
+    <sha1>eaaa7ca33fe63ed2148ac66597831c07c973eb04</sha1>
+  </file>
+  <file name="screenshot_22.png" source="original">
+    <mtime>1667287155</mtime>
+    <size>30693</size>
+    <md5>423614aaf7857cde281b1958612309f7</md5>
+    <crc32>779135e8</crc32>
+    <sha1>2a49ffe0a7469bb301a1625a9ae61deb930f3665</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_22_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_22.png</original>
+    <mtime>1667290323</mtime>
+    <size>10680</size>
+    <md5>446b9f2ddc16d00536883b2485eb7fe1</md5>
+    <crc32>72404087</crc32>
+    <sha1>489993793d3d9130c2e7612fa3bff27018bca994</sha1>
+  </file>
+  <file name="screenshot_23.png" source="original">
+    <mtime>1667287156</mtime>
+    <size>30596</size>
+    <md5>f39992ec0c1fecbba3338570b6ecadc9</md5>
+    <crc32>6b507789</crc32>
+    <sha1>3e5c1b51daf56967500aefd2a718884b88a6deff</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="screenshot_23_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>screenshot_23.png</original>
+    <mtime>1667290325</mtime>
+    <size>10512</size>
+    <md5>ee559b142787dd0ba21d8885b7acb4dc</md5>
+    <crc32>8c3e45b5</crc32>
+    <sha1>96e3790e314cc6f2da737ba6702b8555f6758ce0</sha1>
+  </file>
+</files>
